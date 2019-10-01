@@ -19,14 +19,16 @@
 
 ## 4. Requisitos de alto nível
 
-<p align="justify"> &emsp;&emsp; São os requisitos de alto nível para o projeto:
+<p align="justify"> &emsp;&emsp; São os requisitos de alto nível para o projeto: </p>
 
 |                 Nome                 |           Descrição          |
 |:------------------------------------:|:-------------------------:|
 | Configurar API | Configurar API dentro das frameworks escolhidas para a aplicação (Vue.js e Python Django).|
 | Câmera | Obter permissão para utilização da câmera do aparelho.  |
 | Banco de Dados | Conectar Banco de Dados com Front-End para mais fácil implementação de novas palavras ao dicionário de palavras. |
-| Reconhecimento de Palavras | Reconhecer conjunto de símbolos (patterns) como uma palavra, e mostrar uma correspondente no dicionário. |
+| Reconhecimento de Palavras | Reconhecer conjunto de símbolos (patterns) como uma palavra, e mostrar uma correspondente no dicionário.|
+
+</p>
 
 ## 5. Riscos
 

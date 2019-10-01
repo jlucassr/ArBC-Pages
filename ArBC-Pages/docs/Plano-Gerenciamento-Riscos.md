@@ -40,7 +40,7 @@
 
 ### 3.3. Prioridade
 
-<p align="justify"> &emsp;&emsp; Se baseando com os valores do impacto e de probabilidade calcula-se a prioridade dos riscos. O que determina a urgência com que medidas devem ser tomadas para mitigar ou resolver um risco que pode impedir o projeto.
+<p align="justify"> &emsp;&emsp; Se baseando com os valores do impacto e de probabilidade calcula-se a prioridade dos riscos. O que determina a urgência com que medidas devem ser tomadas para mitigar ou resolver um risco que pode impedir o projeto. </p>
 
 |Probabilidade/Impacto|Muito Baixa|Baixo|Média|Alta|Muito Alta|
 |:----:|:-----:|:------:|:------:|:------:|:------:|
@@ -63,7 +63,7 @@
 ## 4. Identificação dos Riscos
 <p align="justify"> &emsp;&emsp; O processo de identificação de riscos se utilizou de identificação de riscos através da comparação análoga - método que se utiliza de experiências anteriores e similares para facilitar a concepção e identificação comum em projetos do gênero.
 
-## Riscos levantados
+## 5. Riscos Levantados
 
 |Risco| Descrição|	Ação Preventiva|	Ação Reativa|Categoria	|Probabilidade	|Impacto|	Prioridade|
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
