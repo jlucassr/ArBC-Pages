@@ -17,6 +17,7 @@ nav:
     - Documento de Arquitetura: mds/Documento_de_arquitetura.md
     - Documento de Visão: mds/Documento_de_visao.md
     - EAP: EAP.md
+    - Backlog de Produto: Product-Backlog.md
   - Contribuição:
     - Código de Conduta: CODE_OF_CONDUCT.md
   - Políticas:
