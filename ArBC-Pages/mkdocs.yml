@@ -25,6 +25,9 @@ nav:
   - Produto:
     - Backlog de Produto: Product-Backlog.md
     - Protótipo de Alta Fidelidade: mds/Protótipo_de_baixa_fidelidade.md
+  - Gerência:
+    - Plano de Comunicação: Plano-Comunicacao.md
+    - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
   - Contribuição:
     - Código de Conduta: CODE_OF_CONDUCT.md
   - Políticas:
@@ -32,11 +35,16 @@ nav:
     - Commit: policies/commits.md
     - Issue: policies/issues.md
     - Pull Request: policies/pull_requests.md
-  - Gerência:
-    - Plano de Comunicação: Plano-Comunicacao.md
-    - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
   - Sprints:
     - Planejamentos:
       - Sprint 0: sprints/Planejamento-Sprint-0.md
       - Sprint 1: sprints/Planejamento-Sprint-1.md
       - Sprint 2: sprints/Planejamento-Sprint-2.md
+      - Sprint 3: sprints/Planejamento-Sprint-3.md
+      - Sprint 4: sprints/Planejamento-Sprint-4.md
+    - Fechamentos:
+      - Sprint 0: sprints/Fechamento-Sprint-0.md
+      - Sprint 1: sprints/Fechamento-Sprint-1.md
+      - Sprint 2: sprints/Fechamento-Sprint-2.md
+      - Sprint 3: sprints/Fechamento-Sprint-3.md
+      - Sprint 4: sprints/Fechamento-Sprint-4.md
