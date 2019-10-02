@@ -1,6 +1,6 @@
 # ArBC
 
-<p align="justify"> &emsp;&emsp; <img src="imagens/nameLogo.jpg" width="500" height="250"/> </p>
+<p align="justify"> &emsp;&emsp; <img src="imagens/logo.jpg" width="500" height="250"/> </p>
 
 ## Sobre
 

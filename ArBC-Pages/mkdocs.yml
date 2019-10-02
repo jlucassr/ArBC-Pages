@@ -5,10 +5,10 @@ repo_url: 'https://github.com/fga-eps-mds/2019.2-ArBC'
 theme:
   name: 'material'
   language: 'pt'
-  logo: 'imagens/logo.png'
+  logo: 'imagens/Icone.png'
   favicon: 'imagens/Icone.png'
   palette:
-    primary: 'light blue'
+    primary: 'green'
     accent: 'amber'
 
 nav:
