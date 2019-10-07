@@ -1,6 +1,6 @@
 ## 1. Relato da _Sprint_
 
-<p align="justify">&emsp;&emsp; A Semana Universitária ajudou muito a equipe, conseguimos trabalhar melhor e com tempo, lógico que não tivemos 100% de esforço porque os membros tiveram descanso, palestras, estágio e outras disciplinas que também estiveram que se preocupar na semana. a Release é semana que vem, esperamos arranjar nela.
+<p align="justify">&emsp;&emsp; A Semana Universitária ajudou muito a equipe, conseguimos trabalhar melhor e com tempo, lógico que não tivemos 100% de esforço porque os membros tiveram descanso, palestras, estágio e outras disciplinas que também estiveram que se preocupar na semana. a Release é semana que vem, esperamos que tudo der certo.
 </p>
 
 
@@ -15,7 +15,6 @@
 | ID | Issue | Status |
 |:--:| ------- | :----: |
 | Issue | [Roadmap Arquitetura](https://github.com/fga-eps-mds/2019.2-arbc/issues/30) | Aberta |
-| Issue | [Plano de Gerenciamento de Custos](https://github.com/fga-eps-mds/2019.2-arbc/issues/44) | Aberta |
 | Issue | [Riscos do Projeto](https://github.com/fga-eps-mds/2019.2-arbc/issues/56)| Fechada |
 | Issue | [Roadmap DevOps](https://github.com/fga-eps-mds/2019.2-arbc/issues/29) | Fechada |
 | Issue | [TAP](https://github.com/fga-eps-mds/2019.2-arbc/issues/7) | Fechada |
@@ -54,6 +53,6 @@
 
 ## 7. Visão do _Scrum Master_
 
-<p align="justify">&emsp;&emsp; A galera tá melhorando muito, as patterns do banco estão boas e as imagens do alfabeto estão em andamento. Alguns bugs foram reportados, agora aguardemos a Release e o que não espera como feedback, mas todos os MDS merecem os meus parabéns, espero que continuem assim. </p>
+<p align="justify">&emsp;&emsp; A galera tá melhorando muito, as patterns do banco estão boas e as imagens do alfabeto estão em andamento. Alguns bugs foram reportados, agora aguardemos a Release e o que não espera como feedback, mas todos os MDS merecem os meus parabéns, espero que continuem assim.
 
 ![](https://media.giphy.com/media/xT5LMYpSRSLATiXyY8/giphy.gif)

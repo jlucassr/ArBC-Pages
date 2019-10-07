@@ -7,6 +7,8 @@ theme:
   language: 'pt'
   logo: 'imagens/Icone.png'
   favicon: 'imagens/Icone.png'
+  feature:
+    tabs: true
   palette:
     primary: 'green'
     accent: 'amber'
@@ -14,37 +16,44 @@ theme:
 nav:
   - Início: index.md
   - Projeto:
-    - Documento de Arquitetura: mds/Documento_de_arquitetura.md
-    - Documento de Visão: mds/Documento_de_visao.md
-    - Roadmap:
-      - Projeto: eps/roadmap.md
-      - DevOps: eps/roadmapDevops.md
-      - Scrum Master: eps/roadmapScrumMaster.md
-    - EAP: EAP.md
-    - Termo de Abertura do Projeto: Termo-Abertura-Projeto.md
+      - Documento de Arquitetura: mds/Documento_de_arquitetura.md
+      - Documento de Visão: mds/Documento_de_visao.md
+      - Roadmap:
+        - Projeto: eps/roadmap.md
+        - DevOps: eps/roadmapDevops.md
+        - Scrum Master: eps/roadmapScrumMaster.md
+      - EAP: EAP.md
+      - Termo de Abertura do Projeto: Termo-Abertura-Projeto.md
   - Produto:
-    - Backlog de Produto: Product-Backlog.md
-    - Protótipo de Alta Fidelidade: mds/Protótipo_de_baixa_fidelidade.md
+      - Backlog de Produto: Product-Backlog.md
+      - Protótipo de Alta Fidelidade: mds/Protótipo_de_baixa_fidelidade.md
   - Gerência:
-    - Plano de Comunicação: Plano-Comunicacao.md
-    - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
+      - Plano de Comunicação: Plano-Comunicacao.md
+      - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
   - Contribuição:
-    - Código de Conduta: CODE_OF_CONDUCT.md
+      - Código de Conduta: CODE_OF_CONDUCT.md
   - Políticas:
-    - Branch: policies/branches.md
-    - Commit: policies/commits.md
-    - Issue: policies/issues.md
-    - Pull Request: policies/pull_requests.md
+      - Branch: policies/branches.md
+      - Commit: policies/commits.md
+      - Issue: policies/issues.md
+      - Pull Request: policies/pull_requests.md
   - Sprints:
-    - Planejamentos:
-      - Sprint 0: sprints/Planejamento-Sprint-0.md
-      - Sprint 1: sprints/Planejamento-Sprint-1.md
-      - Sprint 2: sprints/Planejamento-Sprint-2.md
-      - Sprint 3: sprints/Planejamento-Sprint-3.md
-      - Sprint 4: sprints/Planejamento-Sprint-4.md
-    - Fechamentos:
-      - Sprint 0: sprints/Fechamento-Sprint-0.md
-      - Sprint 1: sprints/Fechamento-Sprint-1.md
-      - Sprint 2: sprints/Fechamento-Sprint-2.md
-      - Sprint 3: sprints/Fechamento-Sprint-3.md
-      - Sprint 4: sprints/Fechamento-Sprint-4.md
+      - Planejamentos:
+        - Sprint 0: sprints/Planejamento-Sprint-0.md
+        - Sprint 1: sprints/Planejamento-Sprint-1.md
+        - Sprint 2: sprints/Planejamento-Sprint-2.md
+        - Sprint 3: sprints/Planejamento-Sprint-3.md
+        - Sprint 4: sprints/Planejamento-Sprint-4.md
+        - Sprint 5: sprints/Planejamento-Sprint-5.md
+      - Fechamentos:
+        - Sprint 0: sprints/Fechamento-Sprint-0.md
+        - Sprint 1: sprints/Fechamento-Sprint-1.md
+        - Sprint 2: sprints/Fechamento-Sprint-2.md
+        - Sprint 3: sprints/Fechamento-Sprint-3.md
+        - Sprint 4: sprints/Fechamento-Sprint-4.md
+        - Sprint 5: sprints/Fechamento-Sprint-5.md
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
