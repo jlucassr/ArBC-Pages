@@ -53,6 +53,6 @@
 
 ## 7. Visão do _Scrum Master_
 
-<p align="justify">&emsp;&emsp; A galera tá melhorando muito, as patterns do banco estão boas e as imagens do alfabeto estão em andamento. Alguns bugs foram reportados, agora aguardemos a Release e o que não espera como feedback, mas todos os MDS merecem os meus parabéns, espero que continuem assim.
+<p align="justify">&emsp;&emsp; A galera tá melhorando muito, as patterns do banco estão boas e as imagens do alfabeto estão em andamento. Alguns bugs foram reportados, agora aguardemos a Release e o que não espera como feedback, mas todos os MDS merecem os meus parabéns, espero que continuem assim. </p>
 
 ![](https://media.giphy.com/media/xT5LMYpSRSLATiXyY8/giphy.gif)

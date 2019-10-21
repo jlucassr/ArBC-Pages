@@ -1,47 +1,22 @@
 # Histórico de Versões
 
-Data|Versão|Descrição|Autor
--|-|-|-
-04/09|1.0.0|Adição do Template do Documento| João Lucas|
-07/09|1.1.0|Adição do item 4| Marcelo Victor|
-07/09|1.1.1|Melhorias no item 4.1 | Sérgio Cipriano|
-07/09|1.2.0|Adição do item 1, 3, 5, 6 e 7| Igor Batista|
-07/09|1.3.0|Adição do item 2| Rhuan Carlos|
-28/09|1.3.1|Correções links| Sérgio Cipriano|
-28/09|1.4.0|Adição do item 2.4| Sérgio Cipriano, Rhuan Carlos, Marcelo Victor|
-30/09|1.4.1|Correção link #7 e #6| Sérgio Cipriano|
-01/10|1.4.2|Correção das tabelas nos subtópicos 1.3, 2.1, 2.2, 4.2 e 4.3| Sérgio Cipriano, Rhuan Carlos, Marcelo Victor, Igor Batista, João Henrique, Thiago Santos|
-02/10|1.5.0|Atualizando subtópico 1.1, 1.2 | Rhuan Carlos|
-02/10|1.5.1|Refatoração do subtópico 1.5 | Marcelo Victor|
-02/10|2.0.0|Refatoração do Documento de Arquitetura | Thiago Santos|
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|04/09|1.0.0|Adição do Template do Documento| João Lucas|
+|07/09|1.1.0|Adição do item 4| Marcelo Victor|
+|07/09|1.1.1|Melhorias no item 4.1 | Sérgio Cipriano|
+|07/09|1.2.0|Adição do item 1, 3, 5, 6 e 7| Igor Batista|
+|07/09|1.3.0|Adição do item 2| Rhuan Carlos|
+|28/09|1.3.1|Correções links| Sérgio Cipriano|
+|28/09|1.4.0|Adição do item 2.4| Sérgio Cipriano, Rhuan Carlos, Marcelo Victor|
+|30/09|1.4.1|Correção link #7 e #6| Sérgio Cipriano|
+|01/10|1.4.2|Correção das tabelas nos subtópicos 1.3, 2.1, 2.2, 4.2 e 4.3| Sérgio Cipriano, Rhuan Carlos, Marcelo Victor, Igor Batista, João Henrique, Thiago Santos|
+|02/10|1.5.0|Atualizando subtópico 1.1, 1.2 | Rhuan Carlos|
+|02/10|1.5.1|Refatoração do subtópico 1.5 | Marcelo Victor|
+|02/10|2.0.0|Refatoração do Documento de Arquitetura | Thiago Santos|
 
 
-
-# Sumário
-
- 1. [Introdução](#1)
-  - 1.1 [Finalidade](#1_1)
-  - 1.2 [Escopo](#1_2)
-  - 1.3 [Definições, Acrônimos e Abreviações](#1_3)
-  - 1.4 [Referências](#1_4)
-  - 1.5 [Visão Geral](#1_5)
- 2. [Representação da Arquitetura](#2)
-  - 2.1 [Front-end](#2_1)
-  - 2.2 [Back-end](#2_2)
-  - 2.3 [Diagrama de relações](#2_3)
-  - 2.4 [Diagrama de pacotes](#2_4)
- 3. [Metas e Restrições de Arquitetura](#3)
-  - 3.1 [Metas](#3_1)
-  - 3.2 [Restrições](#3_2)
- 4. [Visão dos Casos de Uso](#4)
-  - 4.1 [Diagrama de Casos de Uso](#4_1)
-  - 4.2 [Atores de Casos de Uso](#4_2)
-  - 4.3 [Descrições de Casos de Uso](#4_3)
- 5. [Visão Lógica](#5)
- 6. [Tamanho e Desempenho](#6)
- 7. [Qualidade](#7)
-
-Documento de Arquitetura de Software
+# Documento de Arquitetura de Software
 ------------------------------------
 
 ### 1. <a name="1">Introdução</a>
@@ -59,7 +34,7 @@ Documento de Arquitetura de Software
 
 ### 1.3 <a name="1_3">Definições, Acrônimos e Abreviações</a>
 
-Abreviação|Significado
+|Abreviação|Significado|
 |:-:|:-:|
 |**MDS**| Métodos de Desenvolvimento de Software|
 |**EPS**| Engenharia de Produto de Software|
@@ -99,7 +74,7 @@ Sendo dividido em:</p>
 <p align = "justify">A arquitetura adotada para o <i>front-end</i> é o padrão <i>Vuex</i> que é um <i>state management
  pattern</i>, e consiste em <i>State</i>, <i>View</i> e <i>Actions</i>, cada uma com suas respectivas funções:</p>
 
- Camada|Função
+| Camada|Função|
 |:-:|:-:|
  |*State*| A fonte dos dados locais da aplicação.
  |*Mutations*| Um mapa do estado atual.
@@ -116,7 +91,7 @@ Sendo dividido em:</p>
 <p align = "justify">A arquitetura adotada para o <i>back-end</i> é o <i>MVT</i>, onde suas respectivas funções podem ser definidas por:
 </p>
 
- Camada|Função
+ |Camada|Função|
  |:-:|:-:|
  |*Model*| A camada que interage com o bando de dados.
  |*View*| A camada que interage com o *template* e com a *model*.
@@ -155,7 +130,7 @@ Sendo dividido em:</p>
 
 ### 4.2 <a name="4_2">Atores de Casos de Uso</a>
 
-|**Ator**|**Descrição**
+|**Ator**|**Descrição**|
 |:-:|:-:|
 |**Usuário**|O usuário, ao utilizar o software, poderá, ao apontar a câmera de seu aparelho (smartphone ou tablet), para algum tipo de letra ou palavra com significado dentro do idioma PT-BR,captar a informação e mostrar ao usuário a respectiva imagem correspondente à informação enviada pela câmera.
 

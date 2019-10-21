@@ -6,7 +6,7 @@ theme:
   name: 'material'
   language: 'pt'
   logo: 'imagens/Icone.png'
-  favicon: 'imagens/Icone.png'
+  favicon: 'imagens/ararat.png'
   feature:
     tabs: true
   palette:
@@ -15,6 +15,7 @@ theme:
 
 nav:
   - Início: index.md
+  - Membros: membros.md
   - Projeto:
       - Documento de Arquitetura: mds/Documento_de_arquitetura.md
       - Documento de Visão: mds/Documento_de_visao.md
@@ -45,6 +46,10 @@ nav:
         - Sprint 3: sprints/Planejamento-Sprint-3.md
         - Sprint 4: sprints/Planejamento-Sprint-4.md
         - Sprint 5: sprints/Planejamento-Sprint-5.md
+        - Sprint 6: sprints/Planejamento-Sprint-6.md
+        - Sprint 7: sprints/Planejamento-Sprint-7.md
+        - Sprint 8: sprints/Planejamento-Sprint-8.md
+        
       - Fechamentos:
         - Sprint 0: sprints/Fechamento-Sprint-0.md
         - Sprint 1: sprints/Fechamento-Sprint-1.md
@@ -52,6 +57,8 @@ nav:
         - Sprint 3: sprints/Fechamento-Sprint-3.md
         - Sprint 4: sprints/Fechamento-Sprint-4.md
         - Sprint 5: sprints/Fechamento-Sprint-5.md
+        - Sprint 6: sprints/Fechamento-Sprint-6.md
+        - Sprint 7: sprints/Fechamento-Sprint-7.md
 
 plugins:
   - search
