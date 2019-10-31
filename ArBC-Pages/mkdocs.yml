@@ -16,6 +16,9 @@ theme:
 nav:
   - Início: index.md
   - Membros: membros.md
+  - Download e Execução: Download.md
+  - Especificações Técnicas: Especificacoes_Tecnicas.md
+  - Integração Front e Back: Intergracao.md
   - Projeto:
       - Documento de Arquitetura: mds/Documento_de_arquitetura.md
       - Documento de Visão: mds/Documento_de_visao.md
@@ -32,33 +35,53 @@ nav:
       - Plano de Comunicação: Plano-Comunicacao.md
       - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
   - Contribuição:
+      - Como Contribuir: HOW_TO_CONTRIBUTE.md
       - Código de Conduta: CODE_OF_CONDUCT.md
-  - Políticas:
-      - Branch: policies/branches.md
-      - Commit: policies/commits.md
-      - Issue: policies/issues.md
-      - Pull Request: policies/pull_requests.md
+      - Políticas:
+        - Branch: policies/branches.md
+        - Commit: policies/commits.md
+        - Issue: policies/issues.md
+        - Pull Request: policies/pull_requests.md
   - Sprints:
-      - Planejamentos:
-        - Sprint 0: sprints/Planejamento-Sprint-0.md
-        - Sprint 1: sprints/Planejamento-Sprint-1.md
-        - Sprint 2: sprints/Planejamento-Sprint-2.md
-        - Sprint 3: sprints/Planejamento-Sprint-3.md
-        - Sprint 4: sprints/Planejamento-Sprint-4.md
-        - Sprint 5: sprints/Planejamento-Sprint-5.md
-        - Sprint 6: sprints/Planejamento-Sprint-6.md
-        - Sprint 7: sprints/Planejamento-Sprint-7.md
-        - Sprint 8: sprints/Planejamento-Sprint-8.md
-        
-      - Fechamentos:
-        - Sprint 0: sprints/Fechamento-Sprint-0.md
-        - Sprint 1: sprints/Fechamento-Sprint-1.md
-        - Sprint 2: sprints/Fechamento-Sprint-2.md
-        - Sprint 3: sprints/Fechamento-Sprint-3.md
-        - Sprint 4: sprints/Fechamento-Sprint-4.md
-        - Sprint 5: sprints/Fechamento-Sprint-5.md
-        - Sprint 6: sprints/Fechamento-Sprint-6.md
-        - Sprint 7: sprints/Fechamento-Sprint-7.md
+      - Sprint 0:
+        - Planejamento: sprints/Planejamento-Sprint-0.md
+        - Fechamento: sprints/Fechamento-Sprint-0.md
+      - Sprint 1:
+        - Planejamento: sprints/Planejamento-Sprint-1.md
+        - Fechamento: sprints/Fechamento-Sprint-1.md
+      - Sprint 2:
+        - Planejamento: sprints/Planejamento-Sprint-2.md
+        - Fechamento: sprints/Fechamento-Sprint-2.md
+      - Sprint 3:
+        - Planejamento: sprints/Planejamento-Sprint-3.md
+        - Fechamento: sprints/Fechamento-Sprint-3.md
+      - Sprint 4:
+        - Planejamento: sprints/Planejamento-Sprint-4.md
+        - Fechamento: sprints/Fechamento-Sprint-4.md
+      - Sprint 5:
+        - Planejamento: sprints/Planejamento-Sprint-5.md
+        - Fechamento: sprints/Fechamento-Sprint-5.md
+      - Sprint 6:
+        - Planejamento: sprints/Planejamento-Sprint-6.md
+        - Fechamento: sprints/Fechamento-Sprint-6.md
+      - Sprint 7:
+        - Planejamento: sprints/Planejamento-Sprint-7.md
+        - Fechamento: sprints/Fechamento-Sprint-7.md
+      - Sprint 8:
+        - Planejamento: sprints/Planejamento-Sprint-8.md
+        - Fechamento: sprints/Fechamento-Sprint-8.md
+      - Sprint 9:
+        - Planejamento: sprints/Planejamento-Sprint-9.md
+        - Fechamento: sprints/Fechamento-Sprint-9.md
+      - Sprint 10:
+        - Planejamento: sprints/Planejamento-Sprint-10.md
+        - Fechamento: sprints/Fechamento-Sprint-10.md
+      - Sprint 11:
+        - Planejamento: sprints/Planejamento-Sprint-11.md
+        - Fechamento: sprints/Fechamento-Sprint-11.md
+      - Sprint 12:
+        - Planejamento: sprints/Planejamento-Sprint-12.md
+        - Fechamento: sprints/Fechamento-Sprint-12.md
 
 plugins:
   - search
