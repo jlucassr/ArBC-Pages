@@ -2,13 +2,11 @@
 
 <p align="justify">Esta <i>Sprint</i> tem como objetivo:</p>
 
-* Interface Gráfica
-* Conserto da pasta node_modules
-* Corrigir Dados não sendo Salvos
+* Identificar Palavra
+*	Documentação back-end e front-end
+*	Documento de instruções do produto
 
 ## 2. Papéis
-
-Foi decidido ente os membros de EPS que eles manteram seus papéis até o fim da disciplina. </p>
 
 | <img src=" https://i.ibb.co/4gqXmYg/eduardolima.png" width="200" height="200"/>
 |:--:|
@@ -51,9 +49,9 @@ Foi decidido ente os membros de EPS que eles manteram seus papéis até o fim da
 
 ## 3. Tamanho da _Sprint_
 
-| Data de Início | 13/10/2019 |
+| Data de Início | 20/10/2019 |
 |:--|:--:|
-| **Data de Término** | **19/10/2019** |
+| **Data de Término** | **27/10/2019** |
 | **Duração** | **7 dias** |
 
 
@@ -62,14 +60,14 @@ Foi decidido ente os membros de EPS que eles manteram seus papéis até o fim da
 
 |Issues| Duplas |
 |:--|:--:|
-| [Interface Gráfica](https://github.com/fga-eps-mds/2019.2-ArBC/issues/91) | Marcelo e Sérgio|
-| [Conserto da pasta node_modules](https://github.com/fga-eps-mds/2019.2-ArBC-API/issues/88) | João Henrique e Thiago |
-| [Corrigir Dados não sendo Salvos](https://github.com/fga-eps-mds/2019.2-ArBC/issues/87) | Igor e Rhuan |
+| [Identificar Palavra](https://github.com/fga-eps-mds/2019.2-ArBC/issues/10) | Igor, João Henrique e Rhuan|
+| [Documentação back-end e front-end](https://github.com/fga-eps-mds/2019.2-ArBC-API/issues/97) | João Henrique e Marcelo |
+| [Documento de instruções do produto](https://github.com/fga-eps-mds/2019.2-ArBC/issues/96) | Sérgio e Thiago |
 
 
 ## 5. Sprint Backlog
 
-A Milestone da _Sprint_ 7 encontra-se neste [link](https://github.com/fga-eps-mds/2019.2-ArBC/milestone/8)
+A Milestone da _Sprint_ 8 encontra-se neste [link](https://github.com/fga-eps-mds/2019.2-ArBC/milestone/9)
 
 ## 6. Débitos Acumulados
 
