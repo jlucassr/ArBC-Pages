@@ -26,6 +26,8 @@ nav:
         - Projeto: eps/roadmap.md
         - DevOps: eps/roadmapDevops.md
         - Scrum Master: eps/roadmapScrumMaster.md
+        - Product Owner: eps/roadmapProductOwner.md
+        - Arquiteto: eps/roadmapArquiteto.md
       - EAP: EAP.md
       - Termo de Abertura do Projeto: Termo-Abertura-Projeto.md
   - Produto:

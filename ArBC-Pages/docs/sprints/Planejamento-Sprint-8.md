@@ -1,4 +1,4 @@
-## 1. Objetivo da _Sprint 7_
+## 1. Objetivo da _Sprint 8_
 
 <p align="justify">Esta <i>Sprint</i> tem como objetivo:</p>
 
@@ -51,7 +51,7 @@
 
 | Data de Início | 20/10/2019 |
 |:--|:--:|
-| **Data de Término** | **27/10/2019** |
+| **Data de Término** | **26/10/2019** |
 | **Duração** | **7 dias** |
 
 
