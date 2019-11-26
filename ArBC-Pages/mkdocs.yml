@@ -36,6 +36,7 @@ nav:
   - Gerência:
       - Plano de Comunicação: Plano-Comunicacao.md
       - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
+      - Post Mortem: Postmortem.md
   - Contribuição:
       - Como Contribuir: HOW_TO_CONTRIBUTE.md
       - Código de Conduta: CODE_OF_CONDUCT.md
