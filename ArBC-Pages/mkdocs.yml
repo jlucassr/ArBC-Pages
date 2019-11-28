@@ -19,6 +19,7 @@ nav:
   - Download e Execução: Download.md
   - Especificações Técnicas: Especificacoes_Tecnicas.md
   - Integração Front e Back: Intergracao.md
+  - Manual do Usuário: Manual_Usuario.md
   - Projeto:
       - Documento de Arquitetura: mds/Documento_de_arquitetura.md
       - Documento de Visão: mds/Documento_de_visao.md

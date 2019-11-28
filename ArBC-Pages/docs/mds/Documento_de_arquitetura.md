@@ -62,7 +62,7 @@ Documento de Arquitetura de Software
 
 ### 1.3 <a name="1_3">Definições, Acrônimos e Abreviações</a>
 
-Abreviação|Significado
+|Abreviação|Significado|
 |:-:|:-|
 |**MDS**| Métodos de Desenvolvimento de Software|
 |**EPS**| Engenharia de Produto de Software|
@@ -102,7 +102,7 @@ Sendo dividido em:</p>
 <p align = "justify">A arquitetura adotada para o <i>front-end</i> é o padrão <i>Vuex</i> que é um <i>state management
  pattern</i>, e consiste em <i>State</i>, <i>View</i> e <i>Actions</i>, cada uma com suas respectivas funções:</p>
 
- Camada|Função
+|Camada|Função|
 |:-:|:-|
 |*State*| A fonte dos dados locais da aplicação.
 |*Mutations*| Um mapa do estado atual.
@@ -119,7 +119,7 @@ Sendo dividido em:</p>
 <p align = "justify">A arquitetura adotada para o <i>back-end</i> é o <i>MVT</i>, onde suas respectivas funções podem ser definidas por:
 </p>
 
- Camada|Função
+ |Camada|Função|
  |:-|:-|
  |*Model*| A camada que interage com o bando de dados.
  |*View*| A camada que interage com o *template* e com a *model*.

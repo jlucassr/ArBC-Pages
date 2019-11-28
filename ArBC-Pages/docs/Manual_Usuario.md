@@ -30,7 +30,7 @@ ___
 
 #### 1.1 <a name="1_1">O que é o ArBC</a>
 
-![Logo](../../src/assets/ArBC-logo.png)
+![Logo](https://i.ibb.co/XLmwd3H/logo.jpg)
 
 <p align="justify"> &emsp;&emsp; O ArBC é um software com intuito de auxiliar na alfabetização de crianças por meio da tecnologia de realidade aumentada. Com nossa aplicação, a criança terá um experiência mais lúdica e interativa ao tentar aprender palavras novas. Isso porque, com a realidade aumentada, conseguimos fazer atividades simples se tornarem visualmente muito mais interessantes.</p>
 
@@ -90,7 +90,7 @@ ___
 
 A equipe de gestão do projeto tem como representantes:
 
-Gestores|Email
+|Gestores|E-mail|
 |:-|:-:|
 |Eduardo Lima|eduardolimrib@gmail.com|
 |Luciano dos Santos|Luciano_z7@hotmail.com|
@@ -98,7 +98,7 @@ Gestores|Email
 
 A equipe de desenvolvimento tem como representantes:
 
-Programadores|Email
+|Programadores|E-mail|
 |:-|:-:|
 |Igor Batista|igorbatistapaiva@outlook.com|
 |João Paulino|joao.henrique1299@gmail.com|

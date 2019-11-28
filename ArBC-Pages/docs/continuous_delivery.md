@@ -1,6 +1,7 @@
 |    Data    | Versão |               Descrição               |                 Autor                |
 | :--------: | :----: | :-----------------------------------: | :----------------------------------: |
 | 25/11/2019 |  1.0.0 | Documento de entegra contínua | Luciano dos Santos |
+| 27/11/2019 |  1.1.0 | Adição do Diagrama do Pipeline | João Lucas e Luciano |
 
 # Entrega contínua
 
@@ -52,6 +53,8 @@ Para conferir os pipelines executados [entre aqui](https://gitlab.com/lucianosz7
  - <b>release development:</b> Outro ambiente que é lançado logo após a fase de deploy é o ambiente de desenvolvimento, onde estão as ultimas adições referentes ao desenvolvimento da api.
  - <b>release staging:</b> Que é o ambiente de testes lançado após o deploy da api.
 </p>
+
+![](https://i.ibb.co/56k22ky/b.jpg)
 
 ### 4.2. Ambientes
 
