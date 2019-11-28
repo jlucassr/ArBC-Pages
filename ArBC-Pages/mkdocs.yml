@@ -30,12 +30,17 @@ nav:
         - Arquiteto: eps/roadmapArquiteto.md
       - EAP: EAP.md
       - Termo de Abertura do Projeto: Termo-Abertura-Projeto.md
+      - EVM: EVM.md
   - Produto:
       - Backlog de Produto: Product-Backlog.md
-      - Protótipo de Alta Fidelidade: mds/Protótipo_de_baixa_fidelidade.md
+      - Protótipo de Alta Fidelidade: mds/Protótipo_de_alta_fidelidade.md
+      - Entrega Contínua: continuous_delivery.md
+      - Teste de Usabilidade: Usabilidade.md
   - Gerência:
       - Plano de Comunicação: Plano-Comunicacao.md
       - Plano de Gerenciamento de Riscos: Plano-Gerenciamento-Riscos.md
+      - Plano de Qualidade: quality.md
+      - GQM: gqm.md
       - Post Mortem: Postmortem.md
   - Contribuição:
       - Como Contribuir: HOW_TO_CONTRIBUTE.md

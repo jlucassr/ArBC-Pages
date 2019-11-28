@@ -1,7 +1,12 @@
+|    Data    | Versão |                             Alteração                             |                    Autor                    |
+|:----------:|:------:|:-----------------------------------------------------------------:|:-------------------------------------------:|
+|26/11| 1.0.0| Criação do Documento |João Lucas|
+
 # Post Mortem
 
-<p align="justify">&emsp;&emsp; O post mortem é um documento da coletânia de aprendizado que os membros do projeto obtiveram durante os meses em que trabalharam em conjunto. O principal objetivo ao elaborá-lo é alertar ao leitor sobre possíveis erros e indicar maneiras de contorná-los.
-Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprendidas durante o projeto. Além de fazer recomedações para os futuros alunos das disciplinas.
+<p align="justify">&emsp;&emsp; O post mortem é um documento da coletânea de aprendizado que os membros do projeto obtiveram durante os meses em que trabalharam em conjunto. O principal objetivo ao elaborá-lo é alertar ao leitor sobre possíveis erros e indicar maneiras de contorná-los.
+Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprendidas durante o projeto. Além de fazer recomendações para os futuros alunos das disciplinas. </p>
+
 
 ## Pontos Fortes
 
@@ -11,7 +16,7 @@ Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprend
 * Boas escolhas quanto às prioridades.
 * Afrane e three js são uma MARAVILHA.
 * A interface foi mamata.
-* Os MDS foram bem responsavéis e dedicados em programação.
+* Os MDS foram bem responsáveis e dedicados em programação.
 * Muitos Gifs.
 * Gifs dos Professores.
 * Reuniões com o Pablo ajudaram muito.
@@ -24,16 +29,18 @@ Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprend
 * Faz com que tenhamos que aproveitar bem o nosso tempo (organizar nossa rotina).
 * Desenvolve a maturidade.
 * Dá uma pitada de como é a vida profissional.
-* I Want That Way.
+* I Want That Way. </p>
 
-![](https://media.giphy.com/media/7VmwLnO6r0vU4/giphy.gif)
+
+![](https://media.giphy.com/media/7VmwLnO6r0vU4/giphy.gif) </p>
+
 
 ## Pontos Fracos
 
 * Falhas na comunicação.
 * Apenas 3 EPS por grupo.
 * Internet dos membros caía sempre.
-* Desentedimentos.
+* Desentendimentos.
 * Falta de conhecimento de Design e Photoshop.
 * ARJS é uma bela ****.
 * A Farmação está stackada.
@@ -45,9 +52,11 @@ Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprend
 * Falta de comunidade mais ativa de Realidade Aumentada.
 * Jerome não ajuda.
 * Provas de EDA junto com Release.
-* Falta de um feedback individual de cada membro para saber o que melhorar na R2.
+* Falta de um feedback individual de cada membro para saber o que melhorar na R2. </p>
 
-![](https://media.giphy.com/media/yPNAxpijhgTcc/giphy.gif)
+
+![](https://media.giphy.com/media/yPNAxpijhgTcc/giphy.gif) </p>
+
 
 ## Lições Aprendidas
 
@@ -60,14 +69,15 @@ Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprend
 * Ambientação de projeto.
 * Sempre manter a comunicação com a equipe.
 * Nem sempre bibliotecas irão te ajudar.
-* Estudar gera mais progressso que codar.
+* Estudar gera mais progresso que codar.
 * Realidade aumentada e contribuição com outras comunidades na fga.
 * Não mexer com AR nunca mais.
 * Se um EPS sumir, vire o EPS.
 * Se o DevOps sumir, tranque o curso.
-* Brincadeira essa última lição, só não deixem o DevOps sumir.
+* Brincadeira essa última lição, só não deixem o DevOps sumir. </p>
 
-![](https://media.giphy.com/media/G3Wfea8vbpQK4/giphy.gif)
+
+![](https://media.giphy.com/media/G3Wfea8vbpQK4/giphy.gif) </p>
 
 ## Recomedações
 
@@ -78,6 +88,7 @@ Os membros devem dizer quais foram os pontos fortes, fracos e as lições aprend
 * Não deixem o DevOps farmar commits.
 * Interagir com os MDS, caso seja o SM.
 * Não deixe que o fogo da FGA atrapalhe seu projeto.
-* Fazer premiações como "se der bom na R1 pago o lanche" e "O melhor MDS ganha um almoço no Outback" incentiva muito os membros.
+* Fazer premiações como "se der bom na R1 pago o lanche" e "O melhor MDS ganha um almoço no Outback" incentiva muito os membros. </p>
 
-![](https://media.giphy.com/media/JpMGxE51PtiT4zidBN/giphy.gif)
+
+![](https://media.giphy.com/media/JpMGxE51PtiT4zidBN/giphy.gif) </p>
